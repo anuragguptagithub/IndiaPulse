@@ -2,6 +2,8 @@
 
 **Public Sentiment Intelligence Platform for the Indian Ecosystem**
 
+![IndiaPulse Dashboard](./screenshot.png)
+
 IndiaPulse is a modern web application that reimagines traditional review platforms for the Indian market. Instead of relying on vendor-solicited reviews, IndiaPulse aggregates organic user sentiment from public internet conversations across X (Twitter), Reddit, LinkedIn, Hacker News, YouTube comments, and Indian tech forums.
 
 ## Features
